@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  background-color: #d3d3d3;
+  flex-direction: column;
+  padding: 0px 0px 15px 0px;
+  margin: 80px;
+}
+.txt-style {
+  padding: 20px 0px 0px 20px;
+}
+.input-box {
+  padding: 20px;
+  margin: 20px;
+}
+.text-box {
+  padding: 20px;
+  margin: 20px;
+}
+.btn {
+  width: 80px;
+  height: 40px;
+  margin-left: 90%;
+}
+.commentor {
+  padding: 20px 0px 10px 20px;
+}
